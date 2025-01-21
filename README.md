@@ -34,5 +34,5 @@ _**I'm studying.**_
 
 # <code> 🌟⠀⠀Top Repositories⠀⠀</code>
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiyamin&repo=Lara-MD&theme=vision-friendly-dark)](https://github.com/sadiyamin/Lara-MD) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiyamin&repo=Lara-MD&theme=vision-friendly-dark)](https://github.com/sadiyamin/Lara-MD) |
-| ----- | ----- |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiyamin&repo=Lara&theme=vision-friendly-dark)](https://github.com/sadiyamin/Lara) |
+| ----- |
